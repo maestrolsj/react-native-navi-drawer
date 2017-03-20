@@ -1,0 +1,28 @@
+{
+  "name": "react-native-navi-drawer",
+  "version": "1.0.0",
+  "description": "react native navigation drawer for RN ver >= 0.40.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maestrolsj/react-native-navi-drawer.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "drawer",
+    "for",
+    "android",
+    "and",
+    "ios"
+  ],
+  "author": "Maestrolsj <maestrolsj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maestrolsj/react-native-navi-drawer/issues"
+  },
+  "homepage": "https://github.com/maestrolsj/react-native-navi-drawer#readme"
+}
