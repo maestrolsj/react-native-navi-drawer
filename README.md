@@ -6,7 +6,7 @@ This Slide Menu can be opened by sliding from the left or from the right as you 
 To open it you have to slide from the right (or left) border (and not from anywhere on the screen).
 
 ## Installation
-    $ npm i --save react-native-navigation-drawer
+    $ npm i --save react-native-navi-drawer
 
 ## Usage Example
 ```jsx
